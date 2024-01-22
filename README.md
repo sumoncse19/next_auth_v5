@@ -77,5 +77,9 @@ npx prisma generate
 npx prisma db push
 ```
 
+// bcrypt --> not supported
 yarn add bcrypt
 yarn add -D @types/bcrypt
+// bcryptjs --> supported
+yarn add bcryptjs
+yarn add -D @types/bcryptjs
