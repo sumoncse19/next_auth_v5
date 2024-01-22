@@ -83,3 +83,7 @@ yarn add -D @types/bcrypt
 // bcryptjs --> supported
 yarn add bcryptjs
 yarn add -D @types/bcryptjs
+
+### Middleware and login
+
+yarn add next-auth@beta
